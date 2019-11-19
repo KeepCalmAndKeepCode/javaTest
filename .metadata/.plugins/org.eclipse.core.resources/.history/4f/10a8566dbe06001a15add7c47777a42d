@@ -1,0 +1,43 @@
+package com;
+
+public class Test {
+	public static void main(String[] args) {
+    Class<Student> clazz =Student.class;
+   
+        /Class Field   Method的使用。
+
+        //获得Student类的name属性对象。
+        Field field1  = clazz.getDeclaredField("name");
+        //返回name字段的修饰符
+        System.out.println(field1.getModifiers());
+        //返回name字段的类型
+        System.out.println(field1.getType());
+        //返回name字段的名称
+        System.out.println(field1.getName());
+        //获得Student类的所有属性对象。
+        Field[] field2 = clazz.getDeclaredFields();
+        //遍历所有属性
+        for (Field field : field2) {
+            System.out.println(field.getName());
+            System.out.println(field.getType());
+            System.out.println(field.getModifiers());       
+        }
+
+        //为学生对象zhangsan没有set方法的私有类型age赋值
+        Student zhangsan = new Student();
+        //获得age属性的对象
+        Field age = clazz.getDeclaredField("age");
+        //取消对age属性的修饰符的检查访问，以便为age属性赋值
+        age.setAccessible(true);
+        //为age属性赋值
+        age.set(zhangsan, 18);
+        //回复对age属性的修饰符的检查访问
+        age.setAccessible(false);
+        System.out.println(zhangsan.getAge());
+
+        //Method 的使用
+        Method method1= clazz.getDeclaredMethod("getName");
+        System.out.println(method1.getModifiers());
+    }
+	}
+}

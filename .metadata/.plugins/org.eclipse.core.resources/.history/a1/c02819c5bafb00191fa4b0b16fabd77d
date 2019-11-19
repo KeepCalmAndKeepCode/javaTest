@@ -1,0 +1,30 @@
+package com;
+/*
+ * 将子类对象转为父类对象。此处父类对象可以是接口。
+ * */
+public class Animal {
+  public void eat(){
+    System.out.println("animal eatting...");
+  }
+}
+class Bird extends Animal{
+  public void eat(){
+    System.out.println("bird eatting...");
+  }
+  public void fly(){
+    
+    System.out.println("bird flying...");
+  }
+}
+class Main{
+  public static void main(String[] args) {
+    Animal b = new Bird(); //向上转型
+    b.eat();  // bird eatting...
+    //! error: b.fly(); b虽指向子类对象，但此时丢失fly()方法
+    dosleep(new Male()); // Male sleep..
+    dosleep(new Female());// Female sleep..
+  }
+  public static void dosleep(Human h) {
+    h.sleep();
+  }
+}

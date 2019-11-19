@@ -1,0 +1,5 @@
+package fanxing;
+
+public interface Generator<T> {
+
+}

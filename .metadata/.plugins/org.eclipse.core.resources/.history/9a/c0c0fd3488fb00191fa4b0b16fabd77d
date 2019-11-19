@@ -1,0 +1,30 @@
+package com;
+
+public class Shang {
+	/*
+	 * 通俗地讲即是将子类对象转为父类对象。此处父类对象可以是接口。
+	 */
+	public void eat(){
+    System.out.println("animal eatting...");
+  }
+	
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+class Bird extends Shang{
+  
+  public void eat(){
+    System.out.println("bird eatting...");
+  }
+  
+  public void fly(){
+    
+    System.out.println("bird flying...");
+  }
+}

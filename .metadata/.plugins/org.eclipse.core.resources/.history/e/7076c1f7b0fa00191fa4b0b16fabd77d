@@ -1,0 +1,10 @@
+package com;
+
+public class ForeachTest {
+
+	public static void main(String[] args) {
+		int arr[] = {7,101
+
+	}
+
+}

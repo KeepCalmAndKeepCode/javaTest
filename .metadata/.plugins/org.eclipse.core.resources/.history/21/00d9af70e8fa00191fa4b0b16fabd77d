@@ -1,0 +1,31 @@
+package fanxing;
+
+public class FanxingTest1 {
+	/*
+	 *	泛型，即“参数化类型”。
+	 *	将类型由原来的具体的类型参数化，类似于方法中的变量参数，此时类型也定义成参数形式（可以称之为类型形参），
+	 *	然后在使用/调用时传入具体的类型（类型实参）
+	 */
+//泛型方法 printArray                         
+  public static < E > void printArray( E[] inputArray )
+  {
+     // 输出数组元素            
+        for ( E element : inputArray ){        
+           System.out.printf( "%s ", element );
+        }
+        System.out.println();
+   }
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<String> arrayList = new ArrayList<String>();
+		arrayList.add("aaaa");
+		//arrayList.add(100);
+
+		for(int i = 0; i< arrayList.size();i++){
+	    String item = (String)arrayList.get(i);
+	    Log.d("泛型测试","item = " + item);
+		}
+	}
+
+}

@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - CollectionDemolist",
+      "request": "launch",
+      "mainClass": "jihelei.CollectionDemolist",
+      "projectName": "jihelei"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Penguin",
+      "request": "launch",
+      "mainClass": "com.Extends.Penguin",
+      "projectName": "duotai"
+    }
+  ]
+}

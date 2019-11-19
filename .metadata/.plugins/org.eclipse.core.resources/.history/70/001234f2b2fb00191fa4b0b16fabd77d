@@ -1,0 +1,25 @@
+package com;
+
+public class Xia {
+	public void smile(){
+    System.out.println("girl smile()...");
+  }
+}
+class MMGirl extends Xia{
+  
+  @Override
+  public void smile() {
+    
+    System.out.println("MMirl smile sounds sweet...");
+  }
+  public void c(){
+    System.out.println("MMirl c()...");
+  }
+}
+class MainXia{
+  
+  public static void main(String[] args) {
+    
+  	
+  }
+}
