@@ -4,3 +4,5 @@
 /.recommenders
 /.vscode
 /.metadata
+/mysql-connector-java-3.1.11-bin.jar
+/mysql-connector-java-5.1.39-bin.jar
