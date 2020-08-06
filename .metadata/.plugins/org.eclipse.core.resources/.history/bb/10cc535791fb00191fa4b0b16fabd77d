@@ -1,7 +1,0 @@
-package com;
-
-public class Xia {
-	public void smile(){
-    System.out.println("girl smile()...");
-  }
-}

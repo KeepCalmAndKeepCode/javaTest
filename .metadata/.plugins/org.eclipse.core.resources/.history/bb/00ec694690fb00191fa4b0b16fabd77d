@@ -1,7 +1,0 @@
-package com;
-
-public class Human {
-	public void sleep() {
-    System.out.println("Human sleep..");
-  }
-}

@@ -18,6 +18,8 @@ public class Penguin extends Animal{
 	public static void main(String[] args) {
 		Penguin p1 = new Penguin("qwer",12);
 		p1.eatTest();
+		p1.introduction();
+//		system.out.println(p1.myid);
 	}
 
 }

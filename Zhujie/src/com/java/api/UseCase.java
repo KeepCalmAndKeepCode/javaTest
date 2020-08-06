@@ -23,7 +23,6 @@ public class UseCase {
 	@Retention(RetentionPolicy.RUNTIME)
 	public @interface UseCases {
 		public String id();
-
 		public String description() default "no description";
 	}
 }

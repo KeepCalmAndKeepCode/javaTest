@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="org.eclipse.jface.text_3.15.0.v20181119-1708">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/org.eclipse.jface.text/org.eclipse.jface.text_3.15.0.v20181119-1708.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

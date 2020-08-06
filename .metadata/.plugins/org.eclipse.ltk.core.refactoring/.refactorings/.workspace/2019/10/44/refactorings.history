@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;上下转型&apos; to &apos;ShangXiaZhuanXing&apos;" description="Rename resource &apos;上下转型&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/上下转型" name="ShangXiaZhuanXing" stamp="1572485650809" updateReferences="true"/>
-</session>
