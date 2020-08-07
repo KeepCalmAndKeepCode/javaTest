@@ -39,7 +39,6 @@ public class Test01 {
 		System.out.println("method02");
 	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Test01 obj = new Test01();
 		System.out.println(obj.name);
 		obj.method02();
