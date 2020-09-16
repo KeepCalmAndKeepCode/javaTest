@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70c1d6a0-59db-45d0-8c10-c1064d55077a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../fanxing/src/fanxing/Generic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Finallkeyword/src/com/Finallkeyword/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Finallkeyword/src/com/Finallkeyword/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet01/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet01/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet01/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet01/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet01/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet01/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet01/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet01/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet01/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet01/src/servletTest/ServletDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StaticTest/bin/com/statictest/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StaticTest/bin/com/statictest/Test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StaticTest/src/com/statictest/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StaticTest/src/com/statictest/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zhujie/Zhujie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zhujie/Zhujie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstractAndInterface/bin/abstractAndInterface/AbstractDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../abstractAndInterface/bin/abstractAndInterface/AbstractDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstractAndInterface/bin/abstractAndInterface/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../abstractAndInterface/bin/abstractAndInterface/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstractAndInterface/bin/abstractAndInterface/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../abstractAndInterface/bin/abstractAndInterface/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstractAndInterface/bin/abstractAndInterface/ManmalInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../abstractAndInterface/bin/abstractAndInterface/ManmalInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstractAndInterface/bin/abstractAndInterface/Penguin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../abstractAndInterface/bin/abstractAndInterface/Penguin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstractAndInterface/bin/abstractAndInterface/Salary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../abstractAndInterface/bin/abstractAndInterface/Salary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../duotai/bin/com/Extends/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../duotai/bin/com/Extends/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../duotai/bin/com/Extends/Penguin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../duotai/bin/com/Extends/Penguin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../duotai/bin/com/duotai/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../duotai/bin/com/duotai/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../duotai/bin/com/duotai/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/../duotai/bin/com/duotai/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../duotai/bin/com/duotai/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../duotai/bin/com/duotai/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../duotai/bin/com/duotai/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../duotai/bin/com/duotai/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../duotai/bin/com/duotai/Lady.class" beforeDir="false" afterPath="$PROJECT_DIR$/../duotai/bin/com/duotai/Lady.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../duotai/bin/com/duotai/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../duotai/bin/com/duotai/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../duotai/bin/com/duotai/TestChild.class" beforeDir="false" afterPath="$PROJECT_DIR$/../duotai/bin/com/duotai/TestChild.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../duotai/bin/com/duotai/TestPolymoph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../duotai/bin/com/duotai/TestPolymoph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../duotai/duotai.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../duotai/duotai.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../duotai/src/com/duotai/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../duotai/src/com/duotai/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../duotai/src/com/duotai/TestChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/../duotai/src/com/duotai/TestChild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/ReflectClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/ys/reflex/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fanshe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ReflectClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ys/reflex/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/bin/fanxing/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/bin/fanxing/FanxingTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/bin/fanxing/FruitGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fanxing/bin/fanxing/FruitGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/bin/fanxing/Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fanxing/bin/fanxing/Generator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/bin/fanxing/GenericFruit$Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/bin/fanxing/GenericFruit$Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/bin/fanxing/GenericFruit$GenerateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/bin/fanxing/GenericFruit$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/bin/fanxing/GenericFruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/bin/fanxing/GenericTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/bin/fanxing/MaximumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/bin/fanxing/NumGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/bin/fanxing/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/bin/fanxing/Tongpeifu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fanxing/bin/fanxing/Tongpeifu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/bin/fanxing/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/fanxing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../fanxing/fanxing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/src/fanxing/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/src/fanxing/FanxingTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/src/fanxing/FruitGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fanxing/src/fanxing/FruitGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/src/fanxing/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fanxing/src/fanxing/Generator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/src/fanxing/GenericFruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/src/fanxing/GenericTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/src/fanxing/MaximumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/src/fanxing/NumGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/src/fanxing/Tongpeifu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fanxing/src/fanxing/Tongpeifu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fanxing/src/fanxing/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mavenTest/mvnhelloworld/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../mavenTest/mvnhelloworld/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnTestDemo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../mvnTestDemo/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnTestDemo/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../mvnTestDemo/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnTestDemo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../mvnTestDemo/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/bin/neibulei/HelloWorldAnonymousClasses$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/bin/neibulei/HelloWorldAnonymousClasses$1EnglishGreeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/bin/neibulei/HelloWorldAnonymousClasses$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/bin/neibulei/HelloWorldAnonymousClasses$HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/bin/neibulei/HelloWorldAnonymousClasses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/bin/neibulei/InnerClassTest$InnerClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/bin/neibulei/InnerClassTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/bin/neibulei/LocalInnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/bin/neibulei/Outer$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/bin/neibulei/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/bin/neibulei/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/src/neibulei/HelloWorldAnonymousClasses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/src/neibulei/InnerClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/src/neibulei/LocalInnerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../neibulei/src/neibulei/Test01.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1g2AGGPCX5ehPhbdpGofLYn5mRD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="13" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70c1d6a0-59db-45d0-8c10-c1064d55077a" name="Default Changelist" comment="" />
+      <created>1597302215047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597302215047</updated>
+      <workItem from="1597302232085" duration="151000" />
+      <workItem from="1598837563310" duration="1803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="334" y="92" key="new project wizard" timestamp="1598839078672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="92" key="new project wizard/1920.9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598839078672" />
+  </component>
+</project>

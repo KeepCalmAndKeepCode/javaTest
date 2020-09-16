@@ -17,6 +17,7 @@ public class Test1 {
 	 * 注：类的private方法会隐式地被指定为final方法。
 	 * 
 	 * 当用final修改类时，该类成为最终类，无法被继承。简称为“断子绝孙类”。
+	 * 
 	 * */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
