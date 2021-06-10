@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Test {
 	/**
-	 * 泛型，即“参数化类型”。
+	 * 泛型，即“参数化类型（类型参数化）”。所操作的数据类型被指定为一个参数。
 	 * 未知的数据类型，当我们不知道使用什么数据类型的时候可以使用泛型。
 	 * 就是将类型由原来的具体的类型参数化，类似于方法中的变量参数，
 	 * 此时类型也定义成参数形式（可以称之为类型形参），
@@ -65,6 +65,5 @@ public class Test {
 		getData(name);
 		getData(age);
 		getData(number);
-
 	}
 }
